@@ -1,1 +1,1 @@
-This repository is only for CPE201A
+This is my first GitHub repository
